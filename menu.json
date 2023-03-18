@@ -1,0 +1,124 @@
+{
+"menu":[
+{ 
+  "nombre": "Hamburguesa",
+  "descripcion": "Carne , queso, lechuga, tomate, cebolla, aguacate.",
+  "precio": 120,
+  "imagen":"1.jpg"
+},
+{
+	"nombre": "Tacos",
+  "descripcion": "Trompo, bistek, cilantro, tomate, cebolla, aguacate.",
+  "precio": 150,
+  "imagen":"2.jpg"
+},
+{
+	"nombre": "Tortas",
+  "descripcion": "Trompo, bistek, cilantro, cebolla, aguacate.",
+  "precio": 80,
+  "imagen":"3.jpg"
+},
+{
+"nombre": "Sincronizadas",
+  "descripcion": "Tortilla de harina, trompo, bistek, queso blanco/amarillo, tomate, cebolla, aguacate.",
+  "precio": 70,
+  "imagen":"4.jpg"
+},
+{
+"nombre": "Sopes",
+  "descripcion": "Pollo, repollo, salsa verde, cebolla, aguacate.",
+  "precio": 50,
+  "imagen":"5.jpg"
+},
+{
+"nombre": "Papas fritas",
+  "descripcion": "Papa, sal, salsa de tomate.",
+  "precio": 50,
+  "imagen":"6.jpg"
+},
+{
+"nombre": "Papas asadas",
+  "descripcion": "Trompo, bistek, mayonesa, queso, crema.",
+  "precio": 40,
+  "imagen":"7.jpg"
+},
+{
+"nombre": "Enchiladas verdes",
+  "descripcion": "Tortilla, salsa verde, pollo, cebolla.",
+  "precio": 45,
+  "imagen":"8.jpg"
+},
+{
+"nombre": "Tortas ahogadas",
+  "descripcion": "Carne/pollo, salsa roja, cebolla, aguacate.",
+  "precio": 45,
+  "imagen":"9.jpg"
+},
+{
+"nombre": "Chiles rellenos",
+  "descripcion": "Chile poblano, huevos, harina .",
+  "precio": 60,
+  "imagen":"10.jpg"
+},
+{
+"nombre": "Mole",
+  "descripcion": "Chile, cacahuate, especias.",
+  "precio": 130,
+  "imagen":"11.jpg"
+},
+{
+"nombre": "Chiles en nogada",
+  "descripcion": "Chile poblano, granada, perejil, ajo, carne, durazno, almendra, nuez, pera, manzana, canela, vino blanco.",
+  "precio": 320,
+  "imagen":"12.jpg"
+},
+{
+"nombre": "Barbacoa",
+  "descripcion":"Contiene diferentes tipos de carne.",
+  "precio": 160,
+  "imagen":"13.jpg"
+},
+{
+"nombre": "Carnitas",
+  "descripcion":"Carne de puerco.",
+  "precio": 50,
+  "imagen":"14.jpg"
+},
+{
+"nombre": "Pescado ahumado",
+  "descripcion":"Pescado.",
+  "precio": 80,
+  "imagen":"15.jpg"
+},
+{
+"nombre": "Fajitas",
+  "descripcion":"Carne de asada.",
+  "precio": 90,
+  "imagen":"16.jpg"
+},
+{
+"nombre": "Enchiladas",
+  "descripcion":"Tortilla de maíz, salsa, lechuga, crema, queso.",
+  "precio": 55,
+  "imagen":"17.jpg"
+},
+{
+"nombre": "Quesadillas",
+  "descripcion":"Tortilla de maíz, queso.",
+  "precio": 30,
+  "imagen":"18.jpg"
+},
+{
+"nombre": "Totopos",
+  "descripcion":"Tortilla de harina doradas",
+  "precio": 35,
+  "imagen":"19.jpg"
+},
+{
+"nombre": "Agua chile",
+  "descripcion":"Camarón, chiles, cebolla, pepino.",
+  "precio": 120,
+  "imagen":"20.jpg"
+}
+]
+}
